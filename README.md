@@ -8,11 +8,11 @@ ben matthews 12/26/2014<br>
 [Vosshall lab](http://vosshall.rockefeller.edu)<br>
 [original github repository](http://github.com/bnmtthws/crispr_indel/)<br>
 
-This code is a companion to the manuscript [Genome-engineering with CRISPR-Cas9 in the mosquito *Aedes aegypti*](http://www.cell.com/cell-reports/fulltext/S2211-1247(15)00262-4)
+This code is a companion to the manuscript: [Genome-engineering with CRISPR-Cas9 in the mosquito *Aedes aegypti*](http://www.cell.com/cell-reports/fulltext/S2211-1247(15)00262-4) <br>
 with associated pre-print:<br> [Genome-engineering with CRISPR-Cas9 in the mosquito *Aedes aegypti*](http://biorxiv.org/content/early/2014/12/30/013276)
 
 ---
-Contained in this repository: analysis notebooks associated with our [bioRxiv](http://biorxiv.org/content/early/2014/12/30/013276) pre-print as well as a iPython notebook to run example data.<br>
+Contained in this repository: iPython analysis notebooks associated with our [bioRxiv](http://biorxiv.org/content/early/2014/12/30/013276) pre-print as well as a notebook to run example data.<br>
 
 ---
 I use [Anaconda](https://store.continuum.io/cshop/anaconda/) as a python distribution on both MacOS and RHEL Linux.
